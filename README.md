@@ -21,7 +21,7 @@ slim：宽度为500
 
 |  | default | narrow | slim |
 | --- | --- | --- | --- |
-| hinted | - | [下载](https://github.com/CMR0649/maple-font/releases/download/v1787210457/MapleMonoNLNR-NF-CN.zip) | [下载]() |
-| unhinted | - | [下载](https://github.com/CMR0649/maple-font/releases/download/v1787201039/MapleMonoNLNR-NF-CN-unhinted.zip) | [下载]() |
-| cn-narrow hinted | [下载](https://github.com/CMR0649/maple-font/releases/download/v1787209657/MapleMonoNL-NF-CN.zip) | [下载]() | [下载]() |
-| cn-narrow unhinted | [下载](https://github.com/CMR0649/maple-font/releases/download/v1787203027/MapleMonoNL-NF-CN-unhinted.zip) | [下载]() | [下载]() |
+| hinted | - | [下载](https://github.com/CMR0649/maple-font/releases/download/v1787210457/MapleMonoNLNR-NF-CN.zip) | [下载](https://github.com/CMR0649/maple-font/releases/download/v1787211286/MapleMonoNLSL-NF-CN.zip) |
+| unhinted | - | [下载](https://github.com/CMR0649/maple-font/releases/download/v1787201039/MapleMonoNLNR-NF-CN-unhinted.zip) | [下载](https://github.com/CMR0649/maple-font/releases/download/v1787201705/MapleMonoNLSL-NF-CN-unhinted.zip) |
+| cn-narrow hinted | [下载](https://github.com/CMR0649/maple-font/releases/download/v1787209657/MapleMonoNL-NF-CN.zip) | [下载](https://github.com/CMR0649/maple-font/releases/download/v1787212291/MapleMonoNLNR-NF-CN.zip) | [下载](https://github.com/CMR0649/maple-font/releases/download/v1787213789/MapleMonoNLSL-NF-CN.zip) |
+| cn-narrow unhinted | [下载](https://github.com/CMR0649/maple-font/releases/download/v1787203027/MapleMonoNL-NF-CN-unhinted.zip) | [下载](https://github.com/CMR0649/maple-font/releases/download/v1787203789/MapleMonoNLNR-NF-CN-unhinted.zip) | [下载](https://github.com/CMR0649/maple-font/releases/download/v1787204559/MapleMonoNLSL-NF-CN-unhinted.zip) |
